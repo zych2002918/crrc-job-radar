@@ -13,7 +13,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from crrc_radar import api, filters, report
+from crrc_radar import api, filters, report, tracker
 
 DEFAULT_OUT = "jobs.md"
 
@@ -24,6 +24,9 @@ def main() -> int:
     parser.add_argument("--max-pages", type=int, default=200, help="最大抓取页数")
     parser.add_argument("--out", default=DEFAULT_OUT, help="输出 markdown 文件")
     parser.add_argument("--recruit-type", type=int, default=1, help="1=校招")
+    parser.add_argument("--track", action="store_true",
+                        help="启用增量追踪：对比上次快照，标注新增岗位")
+    parser.add_argument("--snapshot", default=tracker.DEFAULT_SNAPSHOT, help="快照文件路径")
     args = parser.parse_args()
 
     print(f"[1/3] 抓取中车校招岗位（work_place={args.work_place or '全部'}）...")
@@ -38,6 +41,13 @@ def main() -> int:
     result = filters.filter_posts(posts)
     s = result["stats"]
     print(f"      命中 {s['matched']}/{s['total']}，维度分布：{s['dim_dist']}")
+
+    if args.track:
+        old_ids = tracker.load_snapshot(args.snapshot)
+        new_posts = tracker.diff_new_posts(posts, old_ids)
+        result["matched"] = tracker.mark_new(result["matched"], {p["postId"] for p in new_posts})
+        print(f"      增量追踪：新增 {len(new_posts)} 个岗位（对比 {len(old_ids)} 条历史快照）")
+        tracker.save_snapshot(posts, args.snapshot)
 
     print(f"[3/3] 生成投递清单 -> {args.out}")
     md = report.build_report(

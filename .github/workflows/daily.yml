@@ -1,0 +1,27 @@
+name: Daily Job Scan
+
+on:
+  schedule:
+    - cron: "0 0 * * *"        # 每天 UTC 00:00（北京时间 08:00）自动抓取
+  workflow_dispatch:            # 支持手动触发
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Run job radar
+        run: |
+          mkdir -p docs
+          python run.py --track --out docs/jobs.md --snapshot snapshot.json
+      - name: Commit and push results
+        env:
+          GH_TOKEN: ${{ secrets.CRRCR_TOKEN }}
+        run: |
+          git config user.name "crrc-job-radar bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add docs/jobs.md snapshot.json
+          git diff --cached --quiet || (git commit -m "chore: 每日中车岗位扫描 $(date -u +%F)" && git push)

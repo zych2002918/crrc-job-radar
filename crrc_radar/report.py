@@ -11,8 +11,9 @@ def post_url(post: dict) -> str:
 
 
 def _row(post: dict) -> str:
+    new_mark = "🆕" if post.get("is_new") else ""
     cells = [
-        (post.get("company") or "").replace("|", "\\|"),
+        new_mark + (post.get("company") or "").replace("|", "\\|"),
         (post.get("postName") or "").replace("|", "\\|"),
         (post.get("workPlaceStr") or "").replace("|", "\\|"),
         (post.get("educationStr") or "").replace("|", "\\|"),
