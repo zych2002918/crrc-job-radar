@@ -2,7 +2,7 @@
 
 [![Daily Scan](https://github.com/zych2002918/crrc-job-radar/actions/workflows/daily.yml/badge.svg)](https://github.com/zych2002918/crrc-job-radar/actions)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)](#)
-[![tests: 13](https://img.shields.io/badge/tests-13%20passed-brightgreen)](#)
+[![tests: 22](https://img.shields.io/badge/tests-22%20passed-brightgreen)](#)
 
 针对中国中车集团（含中车大连机车车辆等子公司）校园招聘的岗位情报工具：
 调用**中车招聘云平台公开 API** 抓取在招岗位，按方向关键词（测试 / 软件嵌入式 / 电子信息 / 自动化）
@@ -32,8 +32,22 @@ markdown 投递清单（公司/岗位/地点/学历/截止/详情链接 + 统计
 python run.py                  # 抓全量校招岗位 -> jobs.md
 python run.py --work-place 0/4/77   # 只看辽宁省（大连）岗位
 python run.py --track          # 增量追踪：对比上次快照，标出新增岗位
+python run.py --profile profile.example.json --top 10   # 岗位-简历匹配打分，输出推荐 Top10
 python run.py --out my.md --max-pages 50
 ```
+
+## 个人匹配打分（--profile）
+
+把你的技能档案（见 `profile.example.json`）与岗位要求比对打分，
+报告顶部输出"个人匹配推荐 TopN"（排名/匹配分/命中技能/命中原因）：
+
+```
+| 1 | 中车工业研究院 | 硬件研发工程师（嵌入式方向） | 68/100 | 嵌入式,自动化 | 目标岗位:嵌入式;技能:2项;... |
+| 2 | 中车长春轨道客车 | 软件测试工程师            | 59/100 | 测试          | 目标岗位:软件测试工程师/测试;... |
+```
+
+技能档案示例（`profile.example.json`）：姓名 / 目标岗位 / 技能列表 / 方向权重，
+按你的实际简历修改后使用。
 
 ## 输出示例
 
@@ -72,6 +86,7 @@ crrc-job-radar/
 ├── crrc_radar/
 │   ├── api.py             # 中车招聘云平台 API 封装（标准库 urllib，带重试）
 │   ├── filters.py         # 关键词 + 城市筛选器
+│   ├── scoring.py         # 岗位-简历匹配打分（技能档案比对，推荐 TopN）
 │   ├── tracker.py         # 增量追踪：快照对比，新增岗位识别
 │   └── report.py          # markdown 投递清单生成
 ├── .github/workflows/

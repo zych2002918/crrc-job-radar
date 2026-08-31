@@ -13,7 +13,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from crrc_radar import api, filters, report, tracker
+from crrc_radar import api, filters, report, scoring, tracker
 
 DEFAULT_OUT = "jobs.md"
 
@@ -27,6 +27,8 @@ def main() -> int:
     parser.add_argument("--track", action="store_true",
                         help="启用增量追踪：对比上次快照，标注新增岗位")
     parser.add_argument("--snapshot", default=tracker.DEFAULT_SNAPSHOT, help="快照文件路径")
+    parser.add_argument("--profile", default="", help="个人技能档案 JSON（启用岗位-简历匹配打分）")
+    parser.add_argument("--top", type=int, default=10, help="匹配打分 TopN（默认 10）")
     args = parser.parse_args()
 
     print(f"[1/3] 抓取中车校招岗位（work_place={args.work_place or '全部'}）...")
@@ -50,9 +52,15 @@ def main() -> int:
         tracker.save_snapshot(posts, args.snapshot)
 
     print(f"[3/3] 生成投递清单 -> {args.out}")
+    top_posts = []
+    if args.profile:
+        profile = scoring.load_profile(args.profile)
+        top_posts = scoring.rank_posts(posts, profile, top=args.top)
+        print(f"      个人匹配打分：推荐 Top{len(top_posts)}（档案: {profile.get('name', '')}）")
     md = report.build_report(
         result,
         source_note=f"数据源：中车招聘云平台公开 API（suite={api.SUITE_ID}）",
+        top_posts=top_posts,
     )
     Path(args.out).write_text(md, encoding="utf-8")
     print("完成。")

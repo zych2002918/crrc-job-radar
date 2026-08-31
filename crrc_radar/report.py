@@ -26,8 +26,8 @@ def _row(post: dict) -> str:
     return "| " + " | ".join(cells) + " |"
 
 
-def build_report(result: dict, source_note: str = "") -> str:
-    """生成 markdown 投递清单。"""
+def build_report(result: dict, source_note: str = "", top_posts: list[dict] | None = None) -> str:
+    """生成 markdown 投递清单。top_posts: 匹配打分的推荐岗位列表。"""
     stats = result["stats"]
     lines = [
         "# 中车校招岗位投递清单（自动筛选）",
@@ -36,6 +36,33 @@ def build_report(result: dict, source_note: str = "") -> str:
         f"> 统计：共 {stats['total']} 个在招岗位，命中筛选 {stats['matched']} 个",
         f"> {source_note}",
         "",
+    ]
+
+    if top_posts:
+        lines += [
+            "## 〇、个人匹配推荐 Top{}".format(len(top_posts)),
+            "",
+            "按个人技能档案打分排序（分数/命中技能/命中原因）：",
+            "",
+            "| 排名 | 公司 | 岗位 | 地点 | 匹配分 | 命中技能 | 原因 | 详情 |",
+            "|------|------|------|------|--------|----------|------|------|",
+        ]
+        for i, p in enumerate(top_posts, 1):
+            m = p["match"]
+            cells = [
+                str(i),
+                (p.get("company") or "").replace("|", "\\|"),
+                (p.get("postName") or "").replace("|", "\\|"),
+                (p.get("workPlaceStr") or "").replace("|", "\\|"),
+                f"{p['score']}/100",
+                ",".join(m["matched_skills"][:6]) or "—",
+                ";".join(m["reasons"]),
+                post_url(p),
+            ]
+            lines.append("| " + " | ".join(cells) + " |")
+        lines += [""]
+
+    lines += [
         "## 一、命中岗位清单",
         "",
         "| 公司 | 岗位 | 地点 | 学历 | 截止日期 | 项目 | 岗位编码 | 命中维度 | 详情 |",
