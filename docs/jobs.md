@@ -1,34 +1,38 @@
 # 中车校招岗位投递清单（自动筛选）
 
-> 生成时间：2026-09-03 02:38
-> 统计：共 365 个在招岗位，命中筛选 139 个
+> 生成时间：2026-09-04 02:34
+> 统计：共 379 个在招岗位，命中筛选 143 个
 > 数据源：中车招聘云平台公开 API（suite=SU64d47c466202cc36e27a52d4）
 
 ## 一、命中岗位清单
 
 | 公司 | 岗位 | 地点 | 学历 | 截止日期 | 项目 | 岗位编码 | 命中维度 | 详情 |
 |------|------|------|------|----------|------|----------|----------|------|
-| 🆕中车长江铜陵车辆有限公司 | 机电技术岗 | 铜陵市 | 本科及以上 | 2027-07-31 | 2027届校园招聘 | CRRC006249 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a980eaee804fa0faefe156b |
-| 🆕中车长江铜陵车辆有限公司 | 工艺技术岗（机电） | 铜陵市 | 本科及以上 | 2027-07-31 | 2027届校园招聘 | CRRC006248 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a980dc5e804fa0faefe145f |
-| 🆕中车长江铜陵车辆有限公司 | 工艺技术岗（材料） | 铜陵市 | 本科及以上 | 2027-07-31 | 2027届校园招聘 | CRRC006247 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a980df2829af219b7da08a6 |
+| 🆕中车株洲电力机车研究所有限公司 | 电气工程师 | 北京市、长沙市、上海市、无锡市、西安市、宜宾市、株洲市 | 本科及以上 | 2027-09-04 | 2027届校园招聘 | CRRC006259 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a9a1f4bded00b8cb68f7d7c |
+| 🆕中车青岛四方车辆研究所有限公司 | 机器人运动控制算法工程师 | 青岛市 | 硕士研究生 | 2027-09-03 | 2027届校园招聘 | CRRC006258 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a9935d55e09b14b2756c22e |
+| 🆕中车贵阳车辆有限公司 | 设备工程师 | 贵阳市 | 本科及以上 | 2025-11-17 | 2027届校园招聘 | CRRC002073 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a991209829af219b7db84f3 |
+| 🆕中车贵阳车辆有限公司 | 生产工艺师 | 贵阳市 | 本科及以上 | 2025-11-17 | 2026届校园招聘 | CRRC002074 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a99115b5e09b14b275523eb |
+| 中车长江铜陵车辆有限公司 | 机电技术岗 | 铜陵市 | 本科及以上 | 2027-07-31 | 2027届校园招聘 | CRRC006249 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a980eaee804fa0faefe156b |
+| 中车长江铜陵车辆有限公司 | 工艺技术岗（机电） | 铜陵市 | 本科及以上 | 2027-07-31 | 2027届校园招聘 | CRRC006248 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a980dc5e804fa0faefe145f |
+| 中车长江铜陵车辆有限公司 | 工艺技术岗（材料） | 铜陵市 | 本科及以上 | 2027-07-31 | 2027届校园招聘 | CRRC006247 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a980df2829af219b7da08a6 |
 | 中车常州车辆有限公司 | 车辆造修工艺师 | 常州市 | 本科及以上 | 2027-08-01 | 2027届校园招聘 | CRRC002579 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c25db789a3b937c177d62a |
-| 🆕中车常州车辆有限公司 | 项目管理专员 | 常州市 | 本科及以上 | 2027-08-01 | 2027届校园招聘 | CRRC006246 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a980343829af219b7d9ef21 |
-| 🆕中车常州车辆有限公司 | 精益管理专员 | 常州市 | 本科及以上 | 2027-08-01 | 2027届校园招聘 | CRRC006245 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a9802d7829af219b7d9eec8 |
-| 🆕中车常州车辆有限公司 | 通用技术工艺师 | 常州市 | 本科及以上 | 2027-08-01 | 2027届校园招聘 | CRRC006243 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a9801fc829af219b7d9edf3 |
-| 🆕中车常州车辆有限公司 | 新产业工艺师 | 常州市 | 本科及以上 | 2027-08-01 | 2027届校园招聘 | CRRC006242 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a98010fe804fa0faefe084e |
-| 🆕中车眉山车辆有限公司 | 电控研发工程师 | 眉山市 | 硕士研究生及以上 | 2027-09-02 | 2027届校园招聘 | CRRC006240 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a97c46f829af219b7d88ac3 |
-| 🆕中车长江车辆有限公司 | 电气工程师 | 武汉市 | 本科及以上 | 2027-06-30 | 2027届校园招聘 | CRRC004938 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a97a00a829af219b7d813ec |
-| 🆕中车长江车辆有限公司 | 数据集成工程师 | 武汉市 | 本科及以上 | 2026-09-10 | 2027届校园招聘 | CRRC002751 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a979f76e804fa0faefbe44c |
-| 🆕中车长江车辆有限公司 | 材料工艺师 | 武汉市 | 本科及以上 | 2027-09-02 | 2027届校园招聘 | CRRC006231 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a979dea5e09b14b27514a91 |
-| 🆕中车长江车辆有限公司 | 冷装工艺师 | 武汉市 | 本科及以上 | 2027-09-02 | 2027届校园招聘 | CRRC006225 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a979c55e804fa0faefbe081 |
-| 🆕中车眉山车辆有限公司 | 机械研发工程师 | 眉山市 | 硕士研究生及以上 | 2027-09-02 | 2027届校园招聘 | CRRC006227 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a9793ac5e09b14b275138d8 |
-| 🆕中车长江车辆有限公司 | 车辆工艺师 | 武汉市 | 本科及以上 | 2026-09-10 | 2027届校园招聘 | CRRC006219 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a978b9be804fa0faefbbe37 |
-| 中车株洲车辆有限公司 | 软件工程师 | 株洲市-荷塘区 | 本科及以上 | 2026-09-10 | 2027届校园招聘 | CRRC004910 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c39c59720ec02682a1dd29 |
-| 中车株洲车辆有限公司 | 电气工程师 | 株洲市-荷塘区 | 本科及以上 | 2026-09-10 | 2027届校园招聘 | CRRC004909 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c39c60720ec02682a1dd33 |
+| 中车常州车辆有限公司 | 项目管理专员 | 常州市 | 本科及以上 | 2027-08-01 | 2027届校园招聘 | CRRC006246 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a980343829af219b7d9ef21 |
+| 中车常州车辆有限公司 | 精益管理专员 | 常州市 | 本科及以上 | 2027-08-01 | 2027届校园招聘 | CRRC006245 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a9802d7829af219b7d9eec8 |
+| 中车常州车辆有限公司 | 通用技术工艺师 | 常州市 | 本科及以上 | 2027-08-01 | 2027届校园招聘 | CRRC006243 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a9801fc829af219b7d9edf3 |
+| 中车常州车辆有限公司 | 新产业工艺师 | 常州市 | 本科及以上 | 2027-08-01 | 2027届校园招聘 | CRRC006242 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a98010fe804fa0faefe084e |
+| 中车眉山车辆有限公司 | 电控研发工程师 | 眉山市 | 硕士研究生及以上 | 2027-09-02 | 2027届校园招聘 | CRRC006240 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a97c46f829af219b7d88ac3 |
+| 中车长江车辆有限公司 | 电气工程师 | 武汉市 | 本科及以上 | 2027-06-30 | 2027届校园招聘 | CRRC004938 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a97a00a829af219b7d813ec |
+| 中车长江车辆有限公司 | 数据集成工程师 | 武汉市 | 本科及以上 | 2026-09-11 | 2027届校园招聘 | CRRC002751 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a979f76e804fa0faefbe44c |
+| 中车长江车辆有限公司 | 材料工艺师 | 武汉市 | 本科及以上 | 2027-09-02 | 2027届校园招聘 | CRRC006231 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a979dea5e09b14b27514a91 |
+| 中车长江车辆有限公司 | 冷装工艺师 | 武汉市 | 本科及以上 | 2027-09-02 | 2027届校园招聘 | CRRC006225 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a979c55e804fa0faefbe081 |
+| 中车眉山车辆有限公司 | 机械研发工程师 | 眉山市 | 硕士研究生及以上 | 2027-09-02 | 2027届校园招聘 | CRRC006227 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a9793ac5e09b14b275138d8 |
+| 中车长江车辆有限公司 | 车辆工艺师 | 武汉市 | 本科及以上 | 2026-09-11 | 2027届校园招聘 | CRRC006219 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a978b9be804fa0faefbbe37 |
+| 中车株洲车辆有限公司 | 软件工程师 | 株洲市-荷塘区 | 本科及以上 | 2026-09-11 | 2027届校园招聘 | CRRC004910 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c39c59720ec02682a1dd29 |
+| 中车株洲车辆有限公司 | 电气工程师 | 株洲市-荷塘区 | 本科及以上 | 2026-09-11 | 2027届校园招聘 | CRRC004909 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c39c60720ec02682a1dd33 |
 | 中车大同电力机车有限公司 | 电气工程师 | 大同市 | 本科及以上 | 2027-09-02 | 2027届校园招聘 | CRRC006202 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a978559829af219b7d7e06b |
 | 中车大同电力机车有限公司 | 机械工程师 | 大同市 | 本科及以上 | 2027-09-02 | 2027届校园招聘 | CRRC006203 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a978558e804fa0faefbb2cb |
 | 中车大同电力机车有限公司 | 材料工程师 | 大同市 | 本科及以上 | 2027-09-02 | 2027届校园招聘 | CRRC006208 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a978557e804fa0faefbb2c5 |
-| 中车大同电力机车有限公司 | 计算机工程师 | 大同市 | 本科及以上 | 2026-09-10 | 2027届校园招聘 | CRRC006209 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a9785585e09b14b27511a28 |
+| 中车大同电力机车有限公司 | 计算机工程师 | 大同市 | 本科及以上 | 2026-09-11 | 2027届校园招聘 | CRRC006209 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a9785585e09b14b27511a28 |
 | 中车大同电力机车有限公司 | 赛德公司-焊接工程师 | 北京市 | 本科及以上 | 2027-09-02 | 2027届校园招聘 | CRRC006213 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a978558829af219b7d7e066 |
 | 中车大同电力机车有限公司 | 赛德公司-电气研发工程师 | 北京市 | 本科及以上 | 2027-09-02 | 2027届校园招聘 | CRRC006212 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a9785595e09b14b27511a2e |
 | 中车大同电力机车有限公司 | 赛德公司-结构设计师 | 北京市 | 本科及以上 | 2027-09-02 | 2027届校园招聘 | CRRC006214 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a97855a5e09b14b27511a30 |
@@ -36,21 +40,21 @@
 | 中车长江运输设备集团有限公司 | 设计师 | 武汉市 | 硕士研究生及以上 | 2027-09-02 | 2027届校园招聘 | CRRC006207 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a977fd65e09b14b27510a7d |
 | 中车长江运输设备集团有限公司 | 网络安全工程师 | 武汉市 | 硕士研究生及以上 | 2027-09-02 | 2027届校园招聘 | CRRC006206 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a977d8be804fa0faefba593 |
 | 中车长江运输设备集团有限公司 | 软件开发工程师 | 武汉市 | 硕士研究生及以上 | 2027-09-02 | 2027届校园招聘 | CRRC006205 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a977cae829af219b7d7d193 |
-| 科创十五所 | 科创十五所信息技术工程师 | 北京市 | 硕士研究生及以上 | 2026-09-10 | 2027届校园招聘 | CRRC004292 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68ba5b9989a3b937c166fa31 |
+| 科创十五所 | 科创十五所信息技术工程师 | 北京市 | 硕士研究生及以上 | 2026-09-11 | 2027届校园招聘 | CRRC004292 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68ba5b9989a3b937c166fa31 |
 | 中车唐山机车车辆有限公司 | 机械技术设计师 | 北京市-海淀区、唐山市-丰润区、唐山市-路南区 | 硕士研究生 | 2027-09-01 | 2027届校园招聘 | CRRC006196 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a96ac32829af219b7d7180c |
 | 中车唐山机车车辆有限公司 | 信息技术工程师 | 北京市-海淀区、唐山市-丰润区、唐山市-路南区 | 硕士研究生 | 2027-09-01 | 2027届校园招聘 | CRRC006198 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a96ac33e804fa0faefab236 |
 | 中车唐山机车车辆有限公司 | 电气技术工程师 | 北京市-海淀区、唐山市-丰润区、唐山市-路南区 | 硕士研究生 | 2027-09-01 | 2027届校园招聘 | CRRC006199 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a96ac33e804fa0faefab238 |
-| 中车启航新能源技术有限公司 | 电气、自动化类 | 北京市 | 硕士研究生及以上 | 2026-09-10 | 2027届校园招聘 | CRRC004966 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c8d203720ec02682af7c7a |
-| 中车启航新能源技术有限公司 | 机械、力学类 | 北京市 | 硕士研究生及以上 | 2026-09-10 | 2027届校园招聘 | CRRC004967 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c8d203778ced4f394cf79e |
-| 中车启航新能源技术有限公司 | 电子信息、计算机类 | 北京市 | 硕士研究生及以上 | 2026-09-10 | 2027届校园招聘 | CRRC004968 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c8d20389a3b937c18d6a8c |
-| 中车大连机车车辆有限公司 | 算法工程师 | 大连市 | 硕士研究生及以上 | 2026-09-10 | 2027届校园招聘 | CRRC006189 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a962a3e829af219b7d43b5b |
-| 中车大连机车车辆有限公司 | 产品研发工程师（电气） | 大连市 | 硕士研究生及以上 | 2026-09-10 | 2027届校园招聘 | CRRC006186 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a962a3d829af219b7d43b54 |
-| 中车大连机车车辆有限公司 | 产品研发工程师（机械） | 大连市 | 硕士研究生及以上 | 2026-09-10 | 2027届校园招聘 | CRRC006185 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a962a3ce804fa0faef6366e |
+| 中车启航新能源技术有限公司 | 电气、自动化类 | 北京市 | 硕士研究生及以上 | 2026-09-11 | 2027届校园招聘 | CRRC004966 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c8d203720ec02682af7c7a |
+| 中车启航新能源技术有限公司 | 机械、力学类 | 北京市 | 硕士研究生及以上 | 2026-09-11 | 2027届校园招聘 | CRRC004967 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c8d203778ced4f394cf79e |
+| 中车启航新能源技术有限公司 | 电子信息、计算机类 | 北京市 | 硕士研究生及以上 | 2026-09-11 | 2027届校园招聘 | CRRC004968 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c8d20389a3b937c18d6a8c |
+| 中车大连机车车辆有限公司 | 算法工程师 | 大连市 | 硕士研究生及以上 | 2026-09-11 | 2027届校园招聘 | CRRC006189 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a962a3e829af219b7d43b5b |
+| 中车大连机车车辆有限公司 | 产品研发工程师（电气） | 大连市 | 硕士研究生及以上 | 2026-09-11 | 2027届校园招聘 | CRRC006186 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a962a3d829af219b7d43b54 |
+| 中车大连机车车辆有限公司 | 产品研发工程师（机械） | 大连市 | 硕士研究生及以上 | 2026-09-11 | 2027届校园招聘 | CRRC006185 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a962a3ce804fa0faef6366e |
 | 中车洛阳机车有限公司 | 信息安全治理技术师 | 洛阳市 | 本科及以上 | 2027-08-31 | 2027届校园招聘 | CRRC006184 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a955454e804fa0faef5467c |
 | 中车洛阳机车有限公司 | 材料工艺师 | 洛阳市 | 本科及以上 | 2027-08-31 | 2027届校园招聘 | CRRC006182 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a95530fe804fa0faef54441 |
 | 中车洛阳机车有限公司 | 机械工艺师 | 洛阳市 | 本科及以上 | 2027-08-31 | 2027届校园招聘 | CRRC006181 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a955271e804fa0faef543b8 |
 | 中车洛阳机车有限公司 | 电气工艺师 | 洛阳市 | 本科及以上 | 2027-08-31 | 2027届校园招聘 | CRRC006180 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a9551745e09b14b274c08e6 |
-| 中车戚墅堰机车车辆工艺研究所股份有限公司 | 具身智能工程师（2026届-北京） | 北京市 | 硕士研究生及以上 | 2026-09-10 | 2027届校园招聘 | CRRC006179 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a95484e5e09b14b274bf6f7 |
+| 中车戚墅堰机车车辆工艺研究所股份有限公司 | 具身智能工程师（2026届-北京） | 北京市 | 硕士研究生及以上 | 2026-09-11 | 2027届校园招聘 | CRRC006179 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a95484e5e09b14b274bf6f7 |
 | 中车长春轨道客车股份有限公司 | 网络安全工程师 | 长春市 | 本科及以上 | 2027-08-31 | 2027届校园招聘 | CRRC006094 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a9542b35e09b14b274bee36 |
 | 中车长春轨道客车股份有限公司 | 电气质量工技术程师 | 长春市 | 硕士研究生及以上 | 2027-08-31 | 2027届校园招聘 | CRRC006098 | 测试 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a9542b4e804fa0faef52ec6 |
 | 中车长春轨道客车股份有限公司 | 机械质量技术工程师 | 长春市 | 硕士研究生及以上 | 2027-08-31 | 2027届校园招聘 | CRRC006099 | 测试 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a9542b4e804fa0faef52ec8 |
@@ -61,55 +65,55 @@
 | 中车长春轨道客车股份有限公司 | 网络控制及人机交互工程师 | 长春市 | 本科及以上 | 2027-08-31 | 2027届校园招聘 | CRRC006053 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a9542b45e09b14b274bee40 |
 | 中车长春轨道客车股份有限公司 | 数据软件专业设计师 | 长春市 | 硕士研究生及以上 | 2027-08-31 | 2027届校园招聘 | CRRC006035 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a9542b0e804fa0faef52eb4 |
 | 中车长春轨道客车股份有限公司 | 智能通信专业设计师 | 长春市 | 硕士研究生及以上 | 2027-08-31 | 2027届校园招聘 | CRRC006038 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a9542b15e09b14b274bee20 |
-| 中车戚墅堰机车车辆工艺研究所股份有限公司 | 电气类（2027届） | 常州市 | 本科及以上 | 2026-09-10 | 2027届校园招聘 | CRRC006176 | 电子信息,自动化,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a95482ee804fa0faef53714 |
-| 中车戚墅堰机车车辆工艺研究所股份有限公司 | 机械类（2027届） | 常州市 | 本科及以上 | 2026-09-10 | 2027届校园招聘 | CRRC006174 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a95481b829af219b7d2e4bb |
-| 中车齐齐哈尔车辆有限公司 | 智控研发工程师 | 大连市 | 硕士研究生 | 2026-09-10 | 2027届校园招聘 | CRRC005803 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a90e59c4315481304d8ae98 |
-| 中车齐齐哈尔车辆有限公司 | 结构研发工程师 | 北京市、大连市 | 硕士研究生 | 2026-09-10 | 2027届校园招聘 | CRRC005801 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a90e4e068cc6f624f7b68e3 |
-| 中车齐齐哈尔车辆有限公司 | 软件工程师 | 齐齐哈尔市 | 硕士研究生及以上 | 2026-09-10 | 2027届校园招聘 | CRRC005799 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a90e3e34315481304d8ab76 |
-| 中车齐齐哈尔车辆有限公司 | 设备运维工程师 | 齐齐哈尔市 | 本科及以上 | 2026-09-10 | 2027届校园招聘 | CRRC005797 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a90e3224315481304d8aa7e |
-| 中车成都机车车辆有限公司 | 检修（售后）工程师(电气、自动化类) | 成都市、重庆市、昆明市 | 本科及以上 | 2026-09-10 | 2027届校园招聘 | CRRC004680 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68bfe05f778ced4f3930fa4c |
-| 中车成都机车车辆有限公司 | 检修（售后）工程师（机械、车辆工程） | 成都市、重庆市、昆明市 | 本科及以上 | 2026-09-10 | 2027届校园招聘 | CRRC005783 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a8bf53e1ad6db7cf834ba45 |
-| 中车成都机车车辆有限公司 | 电气工艺师/设计师 | 成都市 | 本科及以上 | 2026-09-10 | 2027届校园招聘 | CRRC005782 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a8bf3e61ad6db7cf834b907 |
-| 中车成都机车车辆有限公司 | 组装工艺师/设计师 | 成都市 | 本科及以上 | 2026-09-10 | 2027届校园招聘 | CRRC005781 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a8bf36768cc6f624f74356d |
+| 中车戚墅堰机车车辆工艺研究所股份有限公司 | 电气类（2027届） | 常州市 | 本科及以上 | 2026-09-11 | 2027届校园招聘 | CRRC006176 | 电子信息,自动化,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a95482ee804fa0faef53714 |
+| 中车戚墅堰机车车辆工艺研究所股份有限公司 | 机械类（2027届） | 常州市 | 本科及以上 | 2026-09-11 | 2027届校园招聘 | CRRC006174 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a95481b829af219b7d2e4bb |
+| 中车齐齐哈尔车辆有限公司 | 智控研发工程师 | 大连市 | 硕士研究生 | 2026-09-11 | 2027届校园招聘 | CRRC005803 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a90e59c4315481304d8ae98 |
+| 中车齐齐哈尔车辆有限公司 | 结构研发工程师 | 北京市、大连市 | 硕士研究生 | 2026-09-11 | 2027届校园招聘 | CRRC005801 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a90e4e068cc6f624f7b68e3 |
+| 中车齐齐哈尔车辆有限公司 | 软件工程师 | 齐齐哈尔市 | 硕士研究生及以上 | 2026-09-11 | 2027届校园招聘 | CRRC005799 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a90e3e34315481304d8ab76 |
+| 中车齐齐哈尔车辆有限公司 | 设备运维工程师 | 齐齐哈尔市 | 本科及以上 | 2026-09-11 | 2027届校园招聘 | CRRC005797 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a90e3224315481304d8aa7e |
+| 中车成都机车车辆有限公司 | 检修（售后）工程师(电气、自动化类) | 成都市、重庆市、昆明市 | 本科及以上 | 2026-09-11 | 2027届校园招聘 | CRRC004680 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68bfe05f778ced4f3930fa4c |
+| 中车成都机车车辆有限公司 | 检修（售后）工程师（机械、车辆工程） | 成都市、重庆市、昆明市 | 本科及以上 | 2026-09-11 | 2027届校园招聘 | CRRC005783 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a8bf53e1ad6db7cf834ba45 |
+| 中车成都机车车辆有限公司 | 电气工艺师/设计师 | 成都市 | 本科及以上 | 2026-09-11 | 2027届校园招聘 | CRRC005782 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a8bf3e61ad6db7cf834b907 |
+| 中车成都机车车辆有限公司 | 组装工艺师/设计师 | 成都市 | 本科及以上 | 2026-09-11 | 2027届校园招聘 | CRRC005781 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a8bf36768cc6f624f74356d |
 | 中车青岛四方车辆研究所有限公司 | 博士后-电接触方向 | 青岛市 | 博士研究生 | 2027-08-21 | 2027届校园招聘 | CRRC005770 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a8808501ad6db7cf81f89d0 |
 | 中车青岛四方车辆研究所有限公司 | 博士后-视觉算法方向 | 青岛市 | 博士研究生 | 2027-08-21 | 2027届校园招聘 | CRRC005769 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a88076568cc6f624f61e3a0 |
 | 中车青岛四方车辆研究所有限公司 | 博士后-具身智能方向 | 青岛市 | 博士研究生 | 2027-08-21 | 2027届校园招聘 | CRRC005768 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a8806891ad6db7cf81f888c |
 | 中车青岛四方车辆研究所有限公司 | 售后工程师 | 青岛市 | 硕士研究生 | 2027-08-21 | 2027届校园招聘 | CRRC005766 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a8801cc1ad6db7cf81f84f4 |
-| 中车青岛四方车辆研究所有限公司 | 质量工程师 | 青岛市 | 硕士研究生 | 2026-09-10 | 2027届校园招聘 | CRRC005765 | 测试,电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a91201c1ad6db7cf840e2c4 |
+| 中车青岛四方车辆研究所有限公司 | 质量工程师 | 青岛市 | 硕士研究生 | 2026-09-11 | 2027届校园招聘 | CRRC005765 | 测试,电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a91201c1ad6db7cf840e2c4 |
 | 中车青岛四方车辆研究所有限公司 | 焊接工程师 | 青岛市 | 硕士研究生 | 2027-08-21 | 2027届校园招聘 | CRRC005764 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a8800944315481304b97405 |
 | 中车青岛四方车辆研究所有限公司 | 工艺工程师 | 青岛市 | 硕士研究生 | 2027-08-21 | 2027届校园招聘 | CRRC005763 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a88001768cc6f624f61d940 |
-| 中车青岛四方车辆研究所有限公司 | 人工智能工程师 | 青岛市 | 硕士研究生 | 2026-09-10 | 2027届校园招聘 | CRRC005761 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a87fee04315481304b972ee |
+| 中车青岛四方车辆研究所有限公司 | 人工智能工程师 | 青岛市 | 硕士研究生 | 2026-09-11 | 2027届校园招聘 | CRRC005761 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a87fee04315481304b972ee |
 | 中车青岛四方车辆研究所有限公司 | 算法工程师 | 青岛市 | 硕士研究生 | 2027-08-21 | 2027届校园招聘 | CRRC005760 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a87fe074315481304b97257 |
-| 中车青岛四方车辆研究所有限公司 | 电气研发工程师 | 青岛市 | 硕士研究生 | 2026-09-10 | 2027届校园招聘 | CRRC005759 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a87fd781ad6db7cf81f8213 |
+| 中车青岛四方车辆研究所有限公司 | 电气研发工程师 | 青岛市 | 硕士研究生 | 2026-09-11 | 2027届校园招聘 | CRRC005759 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a87fd781ad6db7cf81f8213 |
 | 中车青岛四方车辆研究所有限公司 | 软硬件开发工程师 | 青岛市 | 硕士研究生 | 2027-08-21 | 2027届校园招聘 | CRRC005755 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a87fa2b1ad6db7cf81f7f9a |
 | 中车株洲电力机车有限公司 | 电子电气类设计师（博士专场） | 株洲市 | 博士研究生 | 2027-06-30 | 2026届校园招聘-株机 | CRRC005742 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a6f0fe468cc6f624f160c32 |
 | 中车北京二七车辆有限公司 | 人才开发建设专员 | 北京市 |  | 2027-06-12 | 2026届校园招聘 | CRRC005702 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a2ba86c1d4c30777ae71455 |
 | 中车北京南口机械有限公司 | 市场开发 | 北京市-昌平区 | 本科及以上 | 2027-05-11 | 2026届校园招聘 | CRRC005651 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6a013fb9e791100f0afbb504 |
 | 中车大连电力牵引研发中心有限公司 | 嵌入式开发设计师 | 大连市 | 硕士研究生及以上 | 2027-03-18 | 2026届校园招聘 | CRRC005340 | 电子信息,自动化,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=69ba1838be908548be40a59e |
-| 中车大连电力牵引研发中心有限公司 | 控制产品开发设计师 | 大连市 | 硕士研究生及以上 | 2026-09-10 | 2026届校园招聘 | CRRC005339 | 电子信息,自动化,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=69ba17fc10919a570b746e9d |
+| 中车大连电力牵引研发中心有限公司 | 控制产品开发设计师 | 大连市 | 硕士研究生及以上 | 2026-09-11 | 2026届校园招聘 | CRRC005339 | 电子信息,自动化,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=69ba17fc10919a570b746e9d |
 | 中车大连电力牵引研发中心有限公司 | 系统设计师 | 大连市 | 本科及以上 | 2027-03-18 | 2026届校园招聘 | CRRC005338 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=69ba15d8be908548be40a293 |
-| 中车大连电力牵引研发中心有限公司 | 软件研发工程师（电机与整流控制方向） | 大连市 | 硕士研究生及以上 | 2026-09-10 | 2026届校园招聘 | CRRC005337 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=69ba152b8e515379dc1cd52b |
-| 中车大连电力牵引研发中心有限公司 | 硬件研发设计师 | 大连市 | 本科及以上 | 2026-09-10 | 2026届校园招聘 | CRRC005336 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=69ba14dbbe908548be40a0cd |
+| 中车大连电力牵引研发中心有限公司 | 软件研发工程师（电机与整流控制方向） | 大连市 | 硕士研究生及以上 | 2026-09-11 | 2026届校园招聘 | CRRC005337 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=69ba152b8e515379dc1cd52b |
+| 中车大连电力牵引研发中心有限公司 | 硬件研发设计师 | 大连市 | 本科及以上 | 2026-09-11 | 2026届校园招聘 | CRRC005336 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=69ba14dbbe908548be40a0cd |
 | 沃顿科技股份有限公司 | 膜产品设计开发工程师 | 贵阳市、南京市 | 硕士研究生及以上 | 3000-01-01 | 日常招聘 | CRRC000447 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68be711889a3b937c16dd77a |
 | 中车戚墅堰机车有限公司 | 电气设计师/工艺师 | 常州市-武进区 | 硕士研究生及以上 | 2027-03-11 | 2026届校园招聘 | CRRC004756 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=69b15ea98e515379dc117b62 |
 | 科创八所 | 科创八所嵌入式研发工程师 | 北京市 | 硕士研究生及以上 | 2026-09-05 | 2026届校园招聘 | CRRC004276 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68ba5b9689a3b937c166fa1e |
 | 中车戚墅堰机车有限公司 | 软件设计师 | 常州市-武进区 | 硕士研究生及以上 | 2026-09-10 | 2026届校园招聘 | CRRC004764 | 电子信息,自动化,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=69b15da810919a570b69f0f2 |
 | 中车财务有限公司 | 信息化管理岗 | 北京市 | 硕士研究生 | 2026-11-04 | 2026届校园招聘 | CRRC005162 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=6909bbcbe3842960d16fe78e |
-| 中车北京二七车辆有限公司 | 信息化建设工程师 | 北京市 |  | 2026-09-10 | 2026届校园招聘 | CRRC005143 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68ff401ac30dea2edc0bbf51 |
+| 中车北京二七车辆有限公司 | 信息化建设工程师 | 北京市 |  | 2026-09-11 | 2026届校园招聘 | CRRC005143 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68ff401ac30dea2edc0bbf51 |
 | 中车信息技术有限公司 | 产品经理（北京博士） | 北京市 | 博士研究生 | 2026-09-30 | 2026届校园招聘 | CRRC005101 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68db430db7da1347a98c8c0a |
-| 中车新型基础设施投资开发有限公司 | 经管/会计类管培生 | 北京市 | 硕士研究生 | 2026-09-10 | 2026届校园招聘 | CRRC005097 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68d78148b7da1347a97e4734 |
-| 中车新型基础设施投资开发有限公司 | 电气/土木类管培生 | 北京市 | 硕士研究生及以上 | 2026-09-10 | 2026届校园招聘 | CRRC005095 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68d7803bc30dea2edca77b5e |
+| 中车新型基础设施投资开发有限公司 | 经管/会计类管培生 | 北京市 | 硕士研究生 | 2026-09-11 | 2026届校园招聘 | CRRC005097 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68d78148b7da1347a97e4734 |
+| 中车新型基础设施投资开发有限公司 | 电气/土木类管培生 | 北京市 | 硕士研究生及以上 | 2026-09-11 | 2026届校园招聘 | CRRC005095 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68d7803bc30dea2edca77b5e |
 | 中车兰州机车有限公司 | 软件开发工程师 | 兰州市 | 硕士研究生 | 2026-09-19 | 2026届校园招聘 | CRRC005048 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68cd1cbf778ced4f39874576 |
 | 常州铁道职业技术学院 | 电气控制工程教师 | 常州市 | 博士研究生 | 2026-03-16 | 日常招聘 | CRRC001192 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=69b8c958e49e0e559fba9e35 |
-| 中车信息技术有限公司 | 软件开发工程师 | 北京市 | 博士研究生 | 2026-09-10 | 2026届校园招聘 | CRRC004960 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c7bb2e778ced4f3948cd3b |
+| 中车信息技术有限公司 | 软件开发工程师 | 北京市 | 博士研究生 | 2026-09-11 | 2026届校园招聘 | CRRC004960 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c7bb2e778ced4f3948cd3b |
 | 中车哈尔滨车辆有限公司 | 软件工程师 | 哈尔滨市 | 本科及以上 | 2026-09-15 | 2026届校园招聘 | CRRC004953 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c77e8b89a3b937c1887d7f |
-| 中车哈尔滨车辆有限公司 | 焊接工艺工程师 | 哈尔滨市 | 本科及以上 | 2026-09-10 | 2026届校园招聘 | CRRC004952 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c777ef778ced4f3947dc5f |
+| 中车哈尔滨车辆有限公司 | 焊接工艺工程师 | 哈尔滨市 | 本科及以上 | 2026-09-11 | 2026届校园招聘 | CRRC004952 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c777ef778ced4f3947dc5f |
 | 中车哈尔滨车辆有限公司 | 电气设备工程师 | 哈尔滨市 | 本科及以上 | 2026-09-15 | 2026届校园招聘 | CRRC004950 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c776a889a3b937c1885dd2 |
 | 天津电力机车有限公司 | 电气工艺技术岗 | 天津市 | 本科及以上 | 2026-09-12 | 2026届校园招聘 | CRRC004932 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c3c5f689a3b937c17facc3 |
-| 天津电力机车有限公司 | 机械工艺技术岗 | 天津市 | 本科及以上 | 2026-09-10 | 2026届校园招聘 | CRRC004931 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c3c563778ced4f393ff8c3 |
+| 天津电力机车有限公司 | 机械工艺技术岗 | 天津市 | 本科及以上 | 2026-09-11 | 2026届校园招聘 | CRRC004931 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c3c563778ced4f393ff8c3 |
 | 科创二十九所 | 科创二十九所软件工程师（开发） | 北京市 | 硕士研究生及以上 | 3000-01-01 | 日常招聘 | CRRC004865 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c243f4720ec0268299ba45 |
 | 科创二十九所 | 科创二十九所软件工程师（网络） | 北京市 | 硕士研究生及以上 | 3000-01-01 | 日常招聘 | CRRC004866 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c243f4778ced4f39370ad0 |
-| 科创二十九所 | 科创二十九所电子工程师 | 北京市 | 硕士研究生及以上 | 2026-09-10 | 2026届校园招聘 | CRRC004863 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c243f389a3b937c177a98f |
+| 科创二十九所 | 科创二十九所电子工程师 | 北京市 | 硕士研究生及以上 | 2026-09-11 | 2026届校园招聘 | CRRC004863 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c243f389a3b937c177a98f |
 | 中车信息技术有限公司 | 算法研发工程师 | 北京市 | 博士研究生 | 3000-01-01 | 2026届校园招聘 | CRRC004846 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c22307778ced4f3936839d |
 | 中车信息技术有限公司 | 网络工程师 | 青岛市 | 硕士研究生及以上 | 3000-01-01 | 2026届校园招聘 | CRRC004849 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c22288778ced4f3936830b |
 | 中车信息技术有限公司 | 云计算工程师 | 青岛市 | 硕士研究生及以上 | 3000-01-01 | 2026届校园招聘 | CRRC004850 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c2223d720ec026829967a5 |
@@ -119,34 +123,34 @@
 | 中车数智科技（雄安）有限公司 | 系统开发工程师 | 保定市 | 硕士研究生及以上 | 3000-01-01 | 2026届校园招聘 | CRRC004855 | 自动化,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c220d7778ced4f39368159 |
 | 中车信息技术有限公司 | 嵌入式虚拟化工程师 | 青岛市 | 硕士研究生及以上 | 3000-01-01 | 2026届校园招聘 | CRRC004848 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c2207e89a3b937c17721b3 |
 | 中车数智科技（雄安）有限公司 | 系统集成工程师 | 保定市 | 硕士研究生及以上 | 3000-01-01 | 2026届校园招聘 | CRRC004856 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c21ff389a3b937c1772105 |
-| 中车数智科技（雄安）有限公司 | 产品经理/助理 | 保定市、北京市 | 硕士研究生及以上 | 2026-09-10 | 2026届校园招聘 | CRRC004859 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c21f0d89a3b937c1771f1e |
+| 中车数智科技（雄安）有限公司 | 产品经理/助理 | 保定市、北京市 | 硕士研究生及以上 | 2026-09-11 | 2026届校园招聘 | CRRC004859 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c21f0d89a3b937c1771f1e |
 | 中车青岛四方机车车辆股份有限公司 | 研发/设计/工艺/质量/数字工程师 （电气类） | 青岛市-城阳区 | 硕士研究生及以上 | 2026-09-10 | 2026届校园招聘 | CRRC004838 | 测试 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c1189689a3b937c174d061 |
-| 中车青岛四方机车车辆股份有限公司 | 研发/设计/工艺/质量/数字工程师 （控制硬件类） | 青岛市-城阳区 | 硕士研究生及以上 | 2026-09-10 | 2026届校园招聘 | CRRC004837 | 测试,电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c1182a720ec02682971610 |
-| 中车青岛四方机车车辆股份有限公司 | 研发/设计/工艺/质量/数字工程师（计算机类） | 青岛市-城阳区 | 本科及以上 | 2026-09-10 | 2026届校园招聘 | CRRC004836 | 测试 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c11781720ec026829714bd |
-| 中车青岛四方机车车辆股份有限公司 | 研发/设计/工艺/质量/数字工程师 （车辆机械类） | 青岛市-城阳区 | 硕士研究生及以上 | 2026-09-10 | 2026届校园招聘 | CRRC004834 | 测试 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c11532778ced4f3933e315 |
-| 中车青岛四方机车车辆股份有限公司 | 研发/设计/工艺/质量/数字工程师 （材料化工类） | 青岛市-城阳区 | 硕士研究生及以上 | 2026-09-10 | 2026届校园招聘 | CRRC004830 | 测试 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c114a8778ced4f3933e23d |
-| 中车北京南口机械有限公司 | 电气工程师 | 北京市-昌平区 | 本科及以上 | 2026-09-10 | 2026届校园招聘 | CRRC004755 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c0d197720ec02682967ec5 |
+| 中车青岛四方机车车辆股份有限公司 | 研发/设计/工艺/质量/数字工程师 （控制硬件类） | 青岛市-城阳区 | 硕士研究生及以上 | 2026-09-11 | 2026届校园招聘 | CRRC004837 | 测试,电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c1182a720ec02682971610 |
+| 中车青岛四方机车车辆股份有限公司 | 研发/设计/工艺/质量/数字工程师（计算机类） | 青岛市-城阳区 | 本科及以上 | 2026-09-11 | 2026届校园招聘 | CRRC004836 | 测试 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c11781720ec026829714bd |
+| 中车青岛四方机车车辆股份有限公司 | 研发/设计/工艺/质量/数字工程师 （车辆机械类） | 青岛市-城阳区 | 硕士研究生及以上 | 2026-09-11 | 2026届校园招聘 | CRRC004834 | 测试 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c11532778ced4f3933e315 |
+| 中车青岛四方机车车辆股份有限公司 | 研发/设计/工艺/质量/数字工程师 （材料化工类） | 青岛市-城阳区 | 硕士研究生及以上 | 2026-09-11 | 2026届校园招聘 | CRRC004830 | 测试 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c114a8778ced4f3933e23d |
+| 中车北京南口机械有限公司 | 电气工程师 | 北京市-昌平区 | 本科及以上 | 2026-09-11 | 2026届校园招聘 | CRRC004755 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68c0d197720ec02682967ec5 |
 | 中车大连机车研究所有限公司 | 软件设计师 | 大连市-甘井子区 | 硕士研究生及以上 | 2026-09-09 | 2026届校园招聘 | CRRC004672 | 电子信息,自动化,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68bfada7720ec0268293875a |
 | 中车大连机车研究所有限公司 | 电气设计师 | 大连市-甘井子区 | 硕士研究生及以上 | 2026-09-09 | 2026届校园招聘 | CRRC004673 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68bfada8778ced4f393076db |
 | 中车大连机车研究所有限公司 | 电气工艺师 | 大连市-旅顺口区 | 硕士研究生及以上 | 2026-09-09 | 2026届校园招聘 | CRRC004668 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68bfada6720ec02682938756 |
 | 中车大连机车研究所有限公司 | 质量工程师 | 大连市-旅顺口区 | 本科及以上 | 2026-09-09 | 2026届校园招聘 | CRRC004669 | 测试 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68bfada7720ec02682938758 |
-| 中车株洲电机有限公司 | 电子信息类【2026届校园招聘】 | 株洲市 | 本科及以上 | 2026-09-10 | 2026届校园招聘-株洲电机 | CRRC004553 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68bfa056720ec02682935fbd |
+| 中车株洲电机有限公司 | 电子信息类【2026届校园招聘】 | 株洲市 | 本科及以上 | 2026-09-11 | 2026届校园招聘-株洲电机 | CRRC004553 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68bfa056720ec02682935fbd |
 | 中车工业研究院有限公司 | 智能系统研究岗 | 北京市 | 硕士研究生及以上 | 2026-09-08 | 2026届校园招聘 | CRRC004514 | 电子信息,自动化,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68be3f1a720ec026828f3672 |
 | 中车工业研究院有限公司 | 硬件研发工程师（嵌入式方向） | 北京市 | 硕士研究生及以上 | 2026-09-08 | 2026届校园招聘 | CRRC004518 | 电子信息,自动化,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68be6da189a3b937c16dceeb |
-| 中车工业研究院有限公司 | 算法研发工程师（多模态大模型方向） | 北京 | 硕士研究生及以上 | 2026-09-10 | 2026届校园招聘 | CRRC004519 | 电子信息,自动化,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68be6d95778ced4f392d17e9 |
-| 中车工业研究院有限公司 | 智能运维研究岗 | 北京 | 硕士研究生及以上 | 2026-09-10 | 2026届校园招聘 | CRRC004517 | 电子信息,自动化,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68be6da989a3b937c16dcef8 |
-| 中车工业研究院有限公司 | 工业软件-仿真方向 | 北京 | 硕士研究生及以上 | 2026-09-10 | 2026届校园招聘 | CRRC004520 | 电子信息,自动化,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68be6d88720ec026828fdb34 |
+| 中车工业研究院有限公司 | 算法研发工程师（多模态大模型方向） | 北京 | 硕士研究生及以上 | 2026-09-11 | 2026届校园招聘 | CRRC004519 | 电子信息,自动化,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68be6d95778ced4f392d17e9 |
+| 中车工业研究院有限公司 | 智能运维研究岗 | 北京 | 硕士研究生及以上 | 2026-09-11 | 2026届校园招聘 | CRRC004517 | 电子信息,自动化,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68be6da989a3b937c16dcef8 |
+| 中车工业研究院有限公司 | 工业软件-仿真方向 | 北京 | 硕士研究生及以上 | 2026-09-11 | 2026届校园招聘 | CRRC004520 | 电子信息,自动化,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68be6d88720ec026828fdb34 |
 | 科创十七所 | 科创十七所仿真软件二次开发工程师 | 北京市 | 硕士研究生及以上 | 2026-09-05 | 2026届校园招聘 | CRRC004294 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68ba5b9a720ec0268288f35f |
 | 科创十七所 | 科创十七所网站开发工程师 | 北京市 | 硕士研究生及以上 | 2026-09-05 | 2026届校园招聘 | CRRC004295 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68ba5b9a89a3b937c166fa34 |
 | 科创十七所 | 科创十七所控制算法工程师 | 北京市 | 硕士研究生及以上 | 2026-09-05 | 2026届校园招聘 | CRRC004296 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68ba5b9a778ced4f39254b3f |
 | 科创十所 | 科创十所控制策略工程师 | 北京市 | 硕士研究生及以上 | 2026-09-05 | 2026届校园招聘 | CRRC004282 | 电子信息 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68ba5b97720ec0268288f351 |
-| 科创十所 | 科创十所控制软件工程师 | 北京市 | 硕士研究生及以上 | 2026-09-10 | 2026届校园招聘 | CRRC004283 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68ba5b9789a3b937c166fa25 |
-| 科创七所 | 科创七所软件设计师（控制、算法、视觉） | 北京市 | 硕士研究生及以上 | 2026-09-10 | 2026届校园招聘 | CRRC004275 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68ba5b95720ec0268288f34a |
+| 科创十所 | 科创十所控制软件工程师 | 北京市 | 硕士研究生及以上 | 2026-09-11 | 2026届校园招聘 | CRRC004283 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68ba5b9789a3b937c166fa25 |
+| 科创七所 | 科创七所软件设计师（控制、算法、视觉） | 北京市 | 硕士研究生及以上 | 2026-09-11 | 2026届校园招聘 | CRRC004275 | 电子信息,软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68ba5b95720ec0268288f34a |
 | 中车资阳机车有限公司 | 软件开发设计师 | 资阳市 | 硕士研究生及以上 | 2026-09-03 | 2026届校园招聘 | CRRC000960 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68be711889a3b937c16dd7ca |
 | 中车资阳机车有限公司 | 市场开发技术工程师 | 资阳市 | 本科及以上 | 2026-09-03 | 2026届校园招聘 | CRRC000955 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68be711889a3b937c16dd7ce |
 | 中车资阳机车有限公司 | 西班牙语市场开发专员 | 资阳市 | 本科及以上 | 2026-09-03 | 2026届校园招聘 | CRRC003254 | 软件/嵌入式 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68be711a89a3b937c16dd93f |
-| 中车兰州机车有限公司 | 机车检修工艺师 | 兰州市 | 本科及以上 | 2026-09-10 | 2026届校园招聘 | CRRC004057 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68b6479c778ced4f3912233a |
-| 中车兰州机车有限公司 | 电气系统设计师 | 兰州市 | 硕士研究生及以上 | 2026-09-10 | 2026届校园招聘 | CRRC004055 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68b645c489a3b937c1529931 |
+| 中车兰州机车有限公司 | 机车检修工艺师 | 兰州市 | 本科及以上 | 2026-09-11 | 2026届校园招聘 | CRRC004057 | 自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68b6479c778ced4f3912233a |
+| 中车兰州机车有限公司 | 电气系统设计师 | 兰州市 | 硕士研究生及以上 | 2026-09-11 | 2026届校园招聘 | CRRC004055 | 电子信息,自动化 | https://crrc.hotjob.cn/64d47c466202cc36e27a52d4/pb/posDetail.html?postId=68b645c489a3b937c1529931 |
 
 ## 二、按目标城市
 
@@ -183,8 +187,16 @@
 
 - 中车兰州机车有限公司｜售后服务工程师 (电气方向)（本科及以上）
 
-### 长春（90 个）
+### 长春（98 个）
 
+- 中车长春轨道客车股份有限公司｜税务筹划专员（硕士研究生及以上）
+- 中车长春轨道客车股份有限公司｜费用预算管理专员（硕士研究生及以上）
+- 中车长春轨道客车股份有限公司｜经济责任审计专员（硕士研究生及以上）
+- 中车长春轨道客车股份有限公司｜数字化审计专员（硕士研究生及以上）
+- 中车长春轨道客车股份有限公司｜合同审计专员（硕士研究生及以上）
+- 中车长春轨道客车股份有限公司｜法律事务专员（硕士研究生及以上）
+- 中车长春轨道客车股份有限公司｜合规管理专员（硕士研究生及以上）
+- 中车长春轨道客车股份有限公司｜合同管理专员（本科及以上）
 - 中车长春轨道客车股份有限公司｜有限元强度分析工程师（硕士研究生及以上）
 - 中车长春轨道客车股份有限公司｜传动系统设计工程师（本科及以上）
 - 中车长春轨道客车股份有限公司｜轴承技术应用工程师（本科及以上）
@@ -276,8 +288,10 @@
 - 中车大连机车研究所有限公司｜电气工艺师（长春）（本科及以上）
 - 中车大连机车研究所有限公司｜钣金工艺师（长春）（本科及以上）
 
-### 北京（80 个）
+### 北京（82 个）
 
+- 中车株洲电力机车研究所有限公司｜机械工程师（本科及以上）
+- 中车株洲电力机车研究所有限公司｜电气工程师（本科及以上）
 - 中车大同电力机车有限公司｜赛德公司-焊接工程师（本科及以上）
 - 中车大同电力机车有限公司｜赛德公司-电气研发工程师（本科及以上）
 - 中车大同电力机车有限公司｜赛德公司-结构设计师（本科及以上）
@@ -363,14 +377,14 @@
 
 | 维度 | 命中数 |
 |------|--------|
-| 电子信息 | 88 |
+| 电子信息 | 90 |
 | 软件/嵌入式 | 55 |
-| 自动化 | 47 |
+| 自动化 | 50 |
 | 测试 | 11 |
 
 ## 四、命中岗位公司分布
 
-- 中车青岛四方车辆研究所有限公司：11 个
+- 中车青岛四方车辆研究所有限公司：12 个
 - 中车长春轨道客车股份有限公司：10 个
 - 中车大同电力机车有限公司：8 个
 - 中车信息技术有限公司：6 个
@@ -395,6 +409,7 @@
 - 科创二十九所：3 个
 - 科创十七所：3 个
 - 中车资阳机车有限公司：3 个
+- 中车贵阳车辆有限公司：2 个
 - 中车眉山车辆有限公司：2 个
 - 中车株洲车辆有限公司：2 个
 - 中车北京二七车辆有限公司：2 个
@@ -403,6 +418,7 @@
 - 中车新型基础设施投资开发有限公司：2 个
 - 天津电力机车有限公司：2 个
 - 科创十所：2 个
+- 中车株洲电力机车研究所有限公司：1 个
 - 科创十五所：1 个
 - 中车株洲电力机车有限公司：1 个
 - 沃顿科技股份有限公司：1 个
